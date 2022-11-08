@@ -1,1 +1,27 @@
 
+
+        
+        .desktop{
+            height: 350px;
+            width: 230px;
+            background-image:url('E:/image/pic8.jpg');
+            border-radius: 20px 20px 0px 0px;
+        }
+        #nav{
+            height: 54px;
+            width: 230px;
+            background-color: chartreuse;
+            border-radius: 0px 0px 20px 20px;
+            display: flex;
+        }
+        #nav div {
+        flex: 1 0 auto;
+        flex-direction:row;
+        
+    }
+    .a{
+        margin-top: 10px;
+        margin-left: 12px;
+        justify-content: center;
+    }
+ 
